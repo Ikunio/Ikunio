@@ -1,13 +1,4 @@
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="Hello" />
-  Hi, I'm PIPO
-</h1>
-
-<h3 align="center">
-  Robotics & Computer Vision Developer
-</h3>
-
 <!-- 动态渐变波浪横幅 -->
 <p align="center">
   <img
@@ -30,13 +21,3 @@
   from sensor calibration to real-world deployment.
 </p>
 
-<!-- 徽章 -->
-<p align="center">
-  <a href="https://github.com/Ikunio">
-    <img src="https://img.shields.io/badge/GitHub-Ikunio-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ikunio/Lidar_nav2_ws">
-    <img src="https://img.shields.io/github/stars/Ikunio/Lidar_nav2_ws?style=for-the-badge&logo=github&label=Nav2%20Stars&color=0ea5e9" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ikunio&style=for-the-badge&color=0ea5e9" />
-</p>
